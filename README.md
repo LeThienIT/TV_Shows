@@ -1,4 +1,5 @@
 ##API
+
 *BASE_URL: https://www.episodate.com/api
 
 *Most Popular TV Shows: https://www.episodate.com/api/most-popular?page=1
